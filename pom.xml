@@ -26,7 +26,7 @@
     </dependencies>
 
     <build>
-        <finalName>LeoQuickStart123</finalName>
+        <finalName>LeoQuickStartFinal</finalName>
 
         <plugins>
             <plugin>
